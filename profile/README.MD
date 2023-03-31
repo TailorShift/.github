@@ -12,7 +12,7 @@ orchestrate the workflow from Point of Sale devices (edge), via the local shops 
 
 More background information on the use case and the requirements of the challenge can be found on the page linked above.
 
-We documented our solution approach separately here.
+We documented our solution approach separately [here](https://github.com/TailorShift/IaC/blob/main/documentation.md).
 
 ## Technologies used
 
