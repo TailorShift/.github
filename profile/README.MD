@@ -4,7 +4,7 @@
 
 ## About
 
-TailorShift is a project delivered by Atos (Evidian) as part of
+TailorShift is a project delivered by Atos (now Eviden) as part of
 the [RedHat EMEA Hackfest 2023](https://qiot-project.github.io/blog/usecase-retail/).
 
 In a nutshell, TailorShift is a fashion company with many stores, that wants to use cutting edge technologies to
